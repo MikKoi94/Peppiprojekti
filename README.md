@@ -1,3 +1,3 @@
-# Peppiprojekti
+# Peppiprojektiharjoitus
 
 Markus tässäpäivitelee
